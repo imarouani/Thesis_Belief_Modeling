@@ -1,0 +1,19 @@
+wave,trust_stratum,n_cc,conditioning_set,delta_SEVERITY,delta_AFF_WORRY,delta_WORRY_HEALTH_SYSTEM,delta_USE2_MASK,delta_USE2_SPACE150,delta_USE2_HANDWASH20,delta_USE2_AVOID,delta_AFF_FEAR
+55,low,376,AFF_FEAR only,0.511,0.709,0.407,0.251,0.267,0.173,0.363,
+55,low,376,Affect domain,0.663,,,0.456,0.435,0.378,0.506,
+55,low,376,Behavior domain,0.377,0.479,0.531,,,,,0.438
+55,high,309,AFF_FEAR only,0.418,0.69,0.385,0.134,0.132,0.189,0.282,
+55,high,309,Affect domain,0.53,,,0.203,0.247,0.281,0.376,
+55,high,309,Behavior domain,0.383,0.321,0.369,,,,,0.38
+56,low,383,AFF_FEAR only,0.545,0.713,0.378,0.261,0.244,0.112,0.252,
+56,low,383,Affect domain,0.687,,,0.379,0.353,0.172,0.334,
+56,low,383,Behavior domain,0.407,0.441,0.267,,,,,0.368
+56,high,351,AFF_FEAR only,0.33,0.626,0.282,0.079,0.175,0.106,0.252,
+56,high,351,Affect domain,0.39,,,0.235,0.314,0.279,0.426,
+56,high,351,Behavior domain,0.391,0.3,0.428,,,,,0.298
+57,low,336,AFF_FEAR only,0.399,0.761,0.372,0.21,0.178,0.17,0.234,
+57,low,336,Affect domain,0.587,,,0.449,0.361,0.332,0.442,
+57,low,336,Behavior domain,0.381,0.432,0.53,,,,,0.329
+57,high,407,AFF_FEAR only,0.377,0.597,0.274,0.089,0.037,0.091,0.186,
+57,high,407,Affect domain,0.417,,,0.233,0.153,0.216,0.294,
+57,high,407,Behavior domain,0.175,0.272,0.415,,,,,0.238

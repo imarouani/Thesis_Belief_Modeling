@@ -1,0 +1,7 @@
+spec,wave,trust_stratum,n_cc,spec_id,gamma_ebic,cor_method,context_id,network_id,gamma,global_strength
+g05,55,high,309,gamma_05,0.5,pearson,ctx_w55_high,net_g05_w55_high,0.5,2.9484620309879093
+g05,55,low,376,gamma_05,0.5,pearson,ctx_w55_low,net_g05_w55_low,0.5,3.1774995757055415
+g05,56,high,351,gamma_05,0.5,pearson,ctx_w56_high,net_g05_w56_high,0.5,2.655841500053316
+g05,56,low,383,gamma_05,0.5,pearson,ctx_w56_low,net_g05_w56_low,0.5,3.048761162690582
+g05,57,high,407,gamma_05,0.5,pearson,ctx_w57_high,net_g05_w57_high,0.5,2.3034422464639666
+g05,57,low,336,gamma_05,0.5,pearson,ctx_w57_low,net_g05_w57_low,0.5,3.2650304187327452

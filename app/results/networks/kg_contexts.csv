@@ -1,0 +1,7 @@
+context_id,wave,trust_stratum,n_cc,trust_variable,trust_grouping_rule,middle_tercile_excluded
+ctx_w55_high,55,high,309,TRUST_RKI,within-wave terciles,TRUE
+ctx_w55_low,55,low,376,TRUST_RKI,within-wave terciles,TRUE
+ctx_w56_high,56,high,351,TRUST_RKI,within-wave terciles,TRUE
+ctx_w56_low,56,low,383,TRUST_RKI,within-wave terciles,TRUE
+ctx_w57_high,57,high,407,TRUST_RKI,within-wave terciles,TRUE
+ctx_w57_low,57,low,336,TRUST_RKI,within-wave terciles,TRUE

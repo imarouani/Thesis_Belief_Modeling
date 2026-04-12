@@ -1,0 +1,7 @@
+wave,trust_stratum,n_cc,n_stratum,filename
+55,high,309,336,cosmo_nodes_wave55_trusthigh.csv
+55,low,376,423,cosmo_nodes_wave55_trustlow.csv
+56,high,351,360,cosmo_nodes_wave56_trusthigh.csv
+56,low,383,431,cosmo_nodes_wave56_trustlow.csv
+57,high,407,418,cosmo_nodes_wave57_trusthigh.csv
+57,low,336,394,cosmo_nodes_wave57_trustlow.csv

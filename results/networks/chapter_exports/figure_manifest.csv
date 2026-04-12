@@ -1,0 +1,10 @@
+figure_file,exists
+figure_01_sample_sizes_by_context.png,True
+figure_03_affect_share_by_context.png,True
+figure_04_global_strength_across_waves.png,True
+figure_05_focal_strength_across_waves.png,True
+figure_07_top3_focal_neighbors_by_context_bars.png,True
+figure_08_focal_heatmap_weights.png,True
+figure_09_focal_heatmap_absweights.png,True
+figure_10_node_strength_heatmap.png,True
+figure_11_focal_decomposition_by_neighbor.png,True

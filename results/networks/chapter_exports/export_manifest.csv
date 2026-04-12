@@ -1,0 +1,15 @@
+file,exists
+inventory_results_files.csv,True
+master_edges_all_contexts.csv,True
+focal_edges_severity.csv,True
+focal_summary_by_context.csv,True
+embeddedness_metrics_by_context.csv,True
+context_table_sample_sizes.csv,True
+trust_comparison_within_wave.csv,True
+wave_comparison_within_trust.csv,True
+focal_neighborhood_full.csv,True
+focal_neighborhood_full_rounded.csv,True
+insight_table_full.csv,True
+insight_table_full_rounded.csv,True
+top1_focal_neighbor_by_context.csv,True
+top1_focal_neighbor_by_context_rounded.csv,True

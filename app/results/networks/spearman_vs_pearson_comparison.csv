@@ -1,0 +1,7 @@
+"wave","trust_stratum","n_cc","S_focal_pearson","S_focal_spearman","GS_pearson","GS_spearman","top_nb_pearson","top_nb_spearman","nb_match"
+55,"high",309,0.753,0.591,2.948,2.687,"AFF_FEAR","AFF_FEAR",TRUE
+55,"low",376,0.587,0.571,3.177,3.333,"AFF_FEAR","AFF_FEAR",TRUE
+56,"high",351,0.503,0.531,2.656,2.81,"AFF_FEAR","AFF_FEAR",TRUE
+56,"low",383,0.717,0.683,3.049,3.04,"AFF_WORRY","AFF_FEAR",FALSE
+57,"high",407,0.364,0.315,2.303,1.999,"AFF_FEAR","AFF_FEAR",TRUE
+57,"low",336,0.554,0.506,3.265,3.131,"AFF_WORRY","AFF_WORRY",TRUE

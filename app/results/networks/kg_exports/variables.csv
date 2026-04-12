@@ -1,0 +1,9 @@
+node_id,name,domain,role
+AFF_FEAR,AFF_FEAR,affect,non_focal
+AFF_WORRY,AFF_WORRY,affect,non_focal
+WORRY_HEALTH_SYSTEM,WORRY_HEALTH_SYSTEM,affect,non_focal
+USE2_AVOID,USE2_AVOID,behavior,non_focal
+USE2_HANDWASH20,USE2_HANDWASH20,behavior,non_focal
+USE2_MASK,USE2_MASK,behavior,non_focal
+USE2_SPACE150,USE2_SPACE150,behavior,non_focal
+SEVERITY,SEVERITY,belief,focal_belief
