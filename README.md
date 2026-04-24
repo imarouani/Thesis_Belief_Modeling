@@ -68,12 +68,4 @@ Bootstrap results are stochastic — set `set.seed()` in R before running notebo
 
 ---
 
-## Citation
-
-```
-Marouani, I. (2026). Computational Modeling of Belief Structure:
-A Network-Based Representation of a Focal Belief in a Knowledge Graph.
-Bachelor's thesis, Osnabrück University.
-```
-
 Code and thesis released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) · © 2026 Iheb Marouani
