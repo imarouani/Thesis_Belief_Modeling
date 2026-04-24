@@ -71,4 +71,4 @@ A Network-Based Representation of a Focal Belief in a Knowledge Graph.
 Bachelor's thesis, Osnabrück University.
 ```
 
-Code: MIT license · Thesis PDF: © Iheb Marouani · COSMO data: subject to study team terms
+Code and thesis released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) · © 2026 Iheb Marouani
