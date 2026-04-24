@@ -32,7 +32,12 @@ Run notebooks in order:
 
 ## Data
 
-Raw data (`data/raw_data_COSMO.csv`) is **not included** — request access from the [COSMO study team](https://projekte.uni-erfurt.de/cosmo2020/web/). Pre-computed outputs in `results/networks/` and `data/instances/` are included, so notebooks 03 onward can be run without re-estimating.
+Raw data is **not included**. The full COSMO dataset (69 waves) is publicly available on PsychArchives:
+
+> Betsch, C. et al. (2024). *COVID-19 Snapshot Monitoring (COSMO Germany) – Data of 69 surveys.*  
+> PsychArchives. https://doi.org/10.23668/PSYCHARCHIVES.15213
+
+Download the dataset, place the file at `data/raw_data_COSMO.csv`, then run from notebook 00. Pre-computed outputs in `results/networks/` and `data/instances/` are included so notebooks 03 onward run without re-estimating.
 
 ---
 
