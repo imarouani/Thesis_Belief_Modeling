@@ -2,7 +2,8 @@
 **Bachelor Thesis — Cognitive Science, Osnabrück University, 2026**  
 Iheb Marouani · Supervisors: Prof. Dr. Sebastian Musslick, Alessandra Brondetta M.Sc.
 
-→ **[Interactive tool](https://belief-modeling.streamlit.app/)** · **[Thesis PDF](./Thesis.pdf)**
+→ **[Interactive tool](https://belief-modeling.streamlit.app/)** ·
+→ **[Thesis PDF](./Bachelor_Thesis_Iheb_Marouani.pdf)** . 
 
 ---
 
