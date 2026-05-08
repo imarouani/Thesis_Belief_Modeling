@@ -108,7 +108,7 @@ st.markdown(
         Networks estimated with EBICglasso regularization (γ = 0.5) on
         COSMO survey data (Germany, waves 55–57).<br>
         All values are descriptive properties of the estimated conditional-dependence structure — not causal effects.<br><br>
-        <a href="https://github.com/imarouani/thesis-belief-explorer" style="color:#888;">
+        <a href="https://github.com/imarouani/Thesis_Belief_Modeling" style="color:#888;">
             GitHub · Thesis &amp; source code
         </a>
     </div>
